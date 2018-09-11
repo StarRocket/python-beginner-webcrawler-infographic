@@ -121,7 +121,7 @@ https://github.com/VincentHahaha/Python-Learning/commit/3bff6bc999e88e9272ff6bad
 
 ## 其他學習資源
 ### 線上學習
-   * [莫煩python](https://morvanzhou.github.io/tutorials/python-basic/basic/)
+   * [莫煩 python](https://morvanzhou.github.io/tutorials/python-basic/basic/)
    * [正則表達式](https://gaming.youtube.com/channel/UCL5fgUWLpzSzJcgfFsfM4Qg)：給條件限定爬資料好用。
    * [外掛駭客](https://gaming.youtube.com/channel/UCL5fgUWLpzSzJcgfFsfM4Qg)：會推薦好用爬蟲工具，以輕鬆聊天的形式培養高手思維。
    * [大數學堂](https://www.largitdata.com/course_list/)：範例一把抓，且定期更新維護。
