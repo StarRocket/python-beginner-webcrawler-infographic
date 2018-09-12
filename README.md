@@ -103,13 +103,13 @@ https://github.com/VincentHahaha/Python-Learning/commit/3bff6bc999e88e9272ff6bad
 
 ### PTT電影評價系統
    * [成果簡報](https://drive.google.com/file/d/1Ij896Vfg_dbTiAtPySOfoCWv3apcs93y/view?usp=sharing)
-   * [程式編碼](https://github.com/VincentHahaha/Python-Learning/commit/eeb572b072bb707b48a1759d778c4513b95d5c3b)
-
-### 獨角獸都愛往哪裡鑽-科技趨勢探索
-   * [成果簡報](https://drive.google.com/file/d/1c4Pc2sawzOdqZNI-8b7c0ejLu-1qbiOd/view?usp=sharing)
    * 程式編碼：
       * [檔案 1](https://github.com/KallenHuang/homework2/blob/master/ptt-movie.py)
       * [檔案 2](https://github.com/KallenHuang/homework2/blob/master/ptt-movie2.py)
+
+### 獨角獸都愛往哪裡鑽-科技趨勢探索
+   * [成果簡報](https://drive.google.com/file/d/1c4Pc2sawzOdqZNI-8b7c0ejLu-1qbiOd/view?usp=sharing)
+   * [程式編碼](https://github.com/VincentHahaha/Python-Learning/commit/eeb572b072bb707b48a1759d778c4513b95d5c3b)
 
 ## 課程媒體紀錄
 * [課程照片](https://drive.google.com/drive/folders/1BEc8fervyEIH-iVsjEEjaJ7WO4Tljzue?usp=sharing)
