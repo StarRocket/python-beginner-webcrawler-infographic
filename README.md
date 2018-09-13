@@ -125,14 +125,14 @@ https://github.com/VincentHahaha/Python-Learning/commit/3bff6bc999e88e9272ff6bad
    * [正則表達式](https://gaming.youtube.com/channel/UCL5fgUWLpzSzJcgfFsfM4Qg)：給條件限定爬資料好用。
    * [外掛駭客](https://gaming.youtube.com/channel/UCL5fgUWLpzSzJcgfFsfM4Qg)：會推薦好用爬蟲工具，以輕鬆聊天的形式培養高手思維。
    * [大數學堂](https://www.largitdata.com/course_list/)：範例一把抓，且定期更新維護。
-   * [廣宣學堂](https://www.facebook.com/broadmission/)：專業軟體學習社群平台
+   * [廣宣學堂](https://www.facebook.com/broadmission/)：Python 和機器學習等，重要專業軟體學習社群平台。
 
 
 ### 相關課程
    * [Hahow 好學校](https://hahow.in/courses?page=1&search=Python)：
         * [Python Web 程式設計入門實戰](https://hahow.in/courses/58001218da04300700fdee95/main)
         * [初心者 － Python 入門](https://hahow.in/courses/57be54b49ab508070039a857/main)
-    * [Coursera](https://www.coursera.org/learn)
+   * [Coursera](https://www.coursera.org/learn)
         * [用 Python 做商管程式設計（一）](https://www.coursera.org/learn/pbc1)
         * [用 Python 做商管程式設計（二）](https://www.coursera.org/learn/pbc2#syllabus)
         * [用 Python 做商管程式設計（三）](https://www.coursera.org/learn/pbc3)
