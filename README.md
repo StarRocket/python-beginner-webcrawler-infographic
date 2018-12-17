@@ -6,14 +6,17 @@
 沒有任何程式設計知識基礎的人。
 
 ## 講師介紹
+
 彭兆蔚 - 彭彭：台大心理系、台大資工所畢業、美商昇陽 (Sun Microsystems) 校園大使、資策會軟體工程師、Tomofun 網站工程師、網頁多人線上遊戲開發、Piconion 影像處理軟體開發、類神經網路、人工智慧教學展示、COSCUP 2010、JSDC 2017 講師、iThome Modern Web 2016 - 2018 講師、世新大學、十年創業經驗；[講師相關學習資源](https://training.pada-x.com/)。
 
 助教：林怡儒、Deron Liu、黃祥晏、陳又瑄、邱上庭。
 
 ## 課程目標
+
 了解 Python 程式語言設計建構模式，實作練習，並透過自己想要做的專案方向，爬取特定的網站內容，並分析資料，用 Python 語言設計編寫出資料視覺化分析成果。
 
 ## 講師學習建議
+
 初學者在學習程式設計的過程中，經常會遇到跨不過的坎，此時很容易自我懷疑，是否天份不足；曾經和許多資深軟體工程師閒聊，談起學習程式設計這回事，我們一致認為「努力是最重要的因素」。然而，也要用正確的方式努力才行。
 
 1. 著重理解程式的運作流程，非死記範例程式碼。
@@ -23,7 +26,9 @@
 正所謂師父領進門，修行在個人。課堂教學只是個起頭，能否脫穎而出，完全取決於學員自身額外做了多少努力！那麼，就一起繼續往前邁進吧！
 
 ## 課程內容
+
 ### 1. Python 簡介、安裝：
+
 Python 的基礎認識及介紹，安裝實作，了解 Python 程式語言資料操作架構，如：數字、字串、列表、集合、字典等，認識並利用運算(如：算術運算、比較運算、指定運算、邏輯運算、集合運算、等...)。
    * 作業：在自己的電腦準備好開發環境，寫出可以做出讓使用者輸入字串能計算乘法的程式。
    * 學習影片：
@@ -93,7 +98,7 @@ https://github.com/VincentHahaha/Python-Learning/commit/3bff6bc999e88e9272ff6bad
    * 參考資料：
        * [Plotly](https://plot.ly/)
 
-## 課程成果：
+## 課程成果
 
 ### 台北市租屋市場
    * [成果簡報](https://drive.google.com/file/d/1xlJRpi0eIdaLTzn_G6PQfYLvywpH1vvy/view?usp=sharing)
@@ -167,4 +172,6 @@ https://github.com/VincentHahaha/Python-Learning/commit/3bff6bc999e88e9272ff6bad
         * [PostgreSQL](https://www.postgresql.org/)
 
 
-###### 以上資源經由講師推薦，以及助教（林怡儒、Deron Liu、黃祥晏、陳又瑄、邱上庭）與 Star Rocket 共同彙整編輯而成。
+### Contributors
+
+以上資源經由講師推薦，以及助教林怡儒、Deron Liu、黃祥晏、陳又瑄、邱上庭與 [Star Rocket](https://github.com/starrocket) 共同彙整編輯而成。
