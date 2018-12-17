@@ -33,21 +33,22 @@
 Python 的基礎認識及介紹，安裝實作，了解 Python 程式語言資料操作架構，如：數字、字串、列表、集合、字典等，認識並利用運算(如：算術運算、比較運算、指定運算、邏輯運算、集合運算、等...)。
 
 * 作業：在自己的電腦準備好開發環境，寫出可以做出讓使用者輸入字串能計算乘法的程式。
-  * 學習影片：
-    * [簡介、安裝與快速開始](https://www.youtube.com/watch?v=wqRlKVRUV_k)
-    * [變數與資料型態](https://www.youtube.com/watch?v=FMruNSjHOzQ)
-    * [數字、字串的基本運算](https://www.youtube.com/watch?v=bLRa4TZ99aY)
-    * [有序列表的基本運算](https://www.youtube.com/watch?v=JLU5oc4_VtA)
-    * [集合、字典的基本運算](https://www.youtube.com/watch?v=L3-KuGYhw78)
-  * 學員作業參考：
-    * [作業 1](https://github.com/dubidub/StarRocketPythonWork/blob/master/homework_w1.py)
-    * [作業 2](https://github.com/lisa81113/python-training/blob/master/20180611_HW.py)
-    * [作業 3](https://github.com/VincentHahaha/Python-Learning/blob/master/Practice1.py)
-    * [作業 4](https://goo.gl/23Znmf)
+* 學習影片：
+  * [簡介、安裝與快速開始](https://www.youtube.com/watch?v=wqRlKVRUV_k)
+  * [變數與資料型態](https://www.youtube.com/watch?v=FMruNSjHOzQ)
+  * [數字、字串的基本運算](https://www.youtube.com/watch?v=bLRa4TZ99aY)
+  * [有序列表的基本運算](https://www.youtube.com/watch?v=JLU5oc4_VtA)
+  * [集合、字典的基本運算](https://www.youtube.com/watch?v=L3-KuGYhw78)
+* 學員作業參考：
+  * [作業 1](https://github.com/dubidub/StarRocketPythonWork/blob/master/homework_w1.py)
+  * [作業 2](https://github.com/lisa81113/python-training/blob/master/20180611_HW.py)
+  * [作業 3](https://github.com/VincentHahaha/Python-Learning/blob/master/Practice1.py)
+  * [作業 4](https://goo.gl/23Znmf)
 
 ### 2. 流程控制
 
 if 判斷式、for/while 迴圈：對於程式語言基本的資料運算邏輯認識，以及程式計算語法的掌握。
+
 * 作業：做出計算機程式，輸出 9x9 乘法表。
 * 學習影片
   * [流程控制：if 判斷式](https://www.youtube.com/watch?v=A93BsHB-lWo)
