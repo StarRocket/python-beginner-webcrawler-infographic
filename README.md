@@ -196,4 +196,5 @@ if 判斷式、for/while 迴圈：對於程式語言基本的資料運算邏輯�
 
 ### Contributors
 
-以上資源經由講師推薦，以及助教林怡儒、Deron Liu、黃祥晏、陳又瑄、邱上庭與 [Star Rocket](https://github.com/starrocket) 共同彙整編輯而成。
+以上資源經由講師推薦，以及助教林怡儒、Deron Liu、黃祥晏、陳又瑄、邱上庭與 [Star Rocket](https://github.com/starrocket) 共同彙整編輯而成。採用[姓名標示-相同方式分享 4.0 國際 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW)授權。
+
